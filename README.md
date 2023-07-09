@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AchilliaChris
 - 👀 I’m interested in full stack web appplication developing using the Microsoft stack
-- 🌱 I’m currently learning .Net 7 and expanding my understanding of integration
+- 🌱 I’m currently learning .Net 8 and expanding my understanding of integration
 - 💞️ I’m looking to collaborate on data analysis and data depiction
 
 
